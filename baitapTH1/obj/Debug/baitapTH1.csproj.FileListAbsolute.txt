@@ -1,0 +1,6 @@
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\bin\Debug\baitapTH1.exe.config
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\bin\Debug\baitapTH1.exe
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\bin\Debug\baitapTH1.pdb
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\obj\Debug\baitapTH1.csprojResolveAssemblyReference.cache
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\obj\Debug\baitapTH1.exe
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH1\obj\Debug\baitapTH1.pdb

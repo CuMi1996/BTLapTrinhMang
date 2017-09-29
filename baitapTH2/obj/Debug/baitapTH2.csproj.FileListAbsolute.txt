@@ -1,0 +1,5 @@
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH2\bin\Debug\baitapTH2.exe.config
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH2\bin\Debug\baitapTH2.exe
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH2\bin\Debug\baitapTH2.pdb
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH2\obj\Debug\baitapTH2.exe
+D:\MVC\LeTrinhHoangAnhTien-bai1\baitapTH2\obj\Debug\baitapTH2.pdb
